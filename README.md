@@ -2,7 +2,7 @@
 叶戡语
 小组成员：叶戡语
 完成项目：
-Impl Merkle Tree following RFC6962：运行结果截图：![as](https://github.com/kanyuYe/-/blob/main/MPT%E4%BB%A3%E7%A0%81%E8%AF%A6%E8%A7%A3_06.png)
+Impl Merkle Tree following RFC6962：运行结果截图：(![结果](https://user-images.githubusercontent.com/110303856/182012928-2bb7442f-9e35-465a-acc5-2cc323aacaba.png))
 实现过程说明：
 1.构建一个二叉树。其中父节点的数据字段为子节点哈希值相加后的哈希值
 2.考虑树中奇数个节点的情况
