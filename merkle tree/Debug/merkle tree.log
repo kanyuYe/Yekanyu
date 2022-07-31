@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\Lucky\source\repos\merkle tree\merkle tree.h(98,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Lucky\source\repos\merkle tree\源.cpp(11,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Lucky\source\repos\merkle tree\源.cpp(43): warning C4715: “tree::verify”: 不是所有的控件路径都返回值
+  merkle tree.vcxproj -> C:\Users\Lucky\source\repos\merkle tree\Debug\merkle tree.exe
