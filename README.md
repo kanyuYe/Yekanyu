@@ -2,7 +2,11 @@
 叶戡语
 小组成员：叶戡语
 完成项目：
-Impl Merkle Tree following RFC6962：![9A6F3A1E14C007F6B943AB0FB5B01FB5](https://user-images.githubusercontent.com/110303856/182011984-f3bd39b5-064c-4acb-868d-61cc7426b68e.jpg)
+Impl Merkle Tree following RFC6962：运行结果截图：![IO41ZR~L~Y5)1OC )U2WPIK](https://user-images.githubusercontent.com/110303856/182012002-cdf6fe32-18c7-462c-b3c3-33d4f88b62fb
+实现过程说明：
+1.构建一个二叉树。其中父节点的数据字段为子节点哈希值相加后的哈希值
+2.考虑树中奇数个节点的情况
+3.验证节点是否在merkle tree中（通过哈希值判断）
 
 send a tx on Bitcoin testnet, and parse the tx data down to every bit, better write script yourself
 forge a signature to pretend that you are Satoshi
